@@ -13,7 +13,7 @@ const SaconGlobalProject = () => {
                         <div className="col-xl-6 col-lg-8 col-md-7">
                             <div className="ar-project-title-box">
                                 <span className="tp-section-subtitle-satisfy mb-20 tp_fade_anim" data-delay=".3">Latest Project</span>
-                                <h3 className="tp-section-title-clash-600 mb-0 tp_fade_anim" data-delay=".4">Selected <br /> case studies</h3>
+                                <h3 className="tp-section-title-clash-600 mb-0 tp_fade_anim" data-delay=".4">Sports <br /> Facilities</h3>
                             </div>
                         </div>
                         <div className="col-xl-6 col-lg-4 col-md-5">

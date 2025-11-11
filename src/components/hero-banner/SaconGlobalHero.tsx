@@ -2,7 +2,9 @@ import heroBgShape from '../../../public/assets/img/sacon-global/hero/hero-bg-sh
 import shape1 from '../../../public/assets/img/sacon-global/hero/hero-shape-1.png';
 import shape2 from '../../../public/assets/img/sacon-global/hero/hero-shape-2.png';
 import shape3 from '../../../public/assets/img/sacon-global/hero/hero-shape-3.png';
+
 import Image from 'next/image';
+import VideoPlayer from "../shared/VideoPlayer/VideoPlayer";
 import Link from 'next/link';
 import React from 'react';
 
@@ -11,8 +13,8 @@ const SaconGlobalHero = () => {
         <div className="ar-hero-area ar-hero-border">
             <div className="container container-1430">
                 <div className="ar-hero-bg ar-hero-ptb" style={{ backgroundImage: `url(${heroBgShape.src})` }}>
-                    <div className="row justify-content-center">
-                        <div className="col-xl-11">
+                    <div className="row justify-content-center align-items-center">
+                        <div className="col-xl-12">
                             <div className="ar-hero-title-box text-center tp_fade_anim" data-delay=".3">
                                 <h2 className="ar-hero-title mb-15">
                                     <span><Image className="ar-hero-shape-1 d-none d-md-inline-block" src={shape1} alt="hero-shape" /></span>Pioneering Model in India’s
@@ -28,6 +30,9 @@ Sports Destination <span><Image className="ar-hero-shape-3 d-none d-md-inline-bl
                         </div>
                     </div>
                 </div>
+            </div>
+            <div className="ar-hero-video-bg">
+                 <VideoPlayer videoUrl="/assets/videos/video.mp4" />
             </div>
         </div>
     );

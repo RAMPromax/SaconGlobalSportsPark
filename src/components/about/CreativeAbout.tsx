@@ -17,7 +17,7 @@ const CreativeAbout = () => {
                         <div className="col-lg-6">
                             <div className="tp-about-us-2-text d-flex justify-content-between">
                                 <div className="tp-about-us-2-text-1">
-                                    <p>@agntix.studio</p>
+                                    <p>@Sacon Global Sports Park</p>
                                 </div>
                                 <div className="tp-about-us-2-text-2 pr-200">
                                     <p>(About)</p>

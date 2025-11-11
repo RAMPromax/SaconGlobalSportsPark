@@ -49,9 +49,9 @@ const CreativeAgencyHero = ({ title = "Agntix", fontStyle="" }) => {
                     <div className="row">
                         <div className="col-xl-12">
                             <div className="studio-hero-info z-index-5 d-flex justify-content-md-between justify-content-center align-items-center">
-                                <Link href="mailto:@agntix.studio">@agntix.studio</Link>
+                                <Link href="mailto:info@saconglobalsportspark.com">@info@saconglobalsportspark.com</Link>
                                 <span>Motion design <br /> Studio</span>
-                                <Link href="mailto:@agntix.studio">@agntix.studio</Link>
+                                <Link href="mailto:@info@saconglobalsportspark.com">@info@saconglobalsportspark.com</Link>
                             </div>
                         </div>
                     </div>

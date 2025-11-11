@@ -6,7 +6,7 @@ import HomeMainFooter from '@/layouts/footers/HomeMainFooter';
 import SaconGlobalHero from '@/components/hero-banner/SaconGlobalHero';
 import SaconGlobalCategory from '@/components/category/SaconGlobalCategory';
 import SaconGlobalBanner from '@/components/banner/SaconGlobalBanner';
-import SaconGlobalAbout from '@/components/about/SaconGlobalAboutAbout';
+import SaconGlobalAbout from '@/components/about/SaconGlobalAbout';
 import ArchitectureHubBrandTwo from '@/components/brand/ArchitectureHubBrandTwo';
 import SearchArea from '@/components/search-area/SearchArea';
 import SaconGlobalHeader from '@/layouts/headers/SaconGlobalHeader';

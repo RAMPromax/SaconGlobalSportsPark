@@ -11,7 +11,7 @@ import ArchitectureHubBanner from '@/components/banner/SaconGlobalBanner';
 import ScrollSmoothProvider from '@/components/provider/ScrollSmoothProvider';
 import AnimationWrapper from '@/components/shared/Animation/AnimationWrapper';
 import ArchitectureHubAward from '@/components/award/SaconGlobalAward';
-import ArchitectureHubAbout from '@/components/about/SaconGlobalAboutAbout';
+import ArchitectureHubAbout from '@/components/about/SaconGlobalAbout';
 import ArchitectureHubBrand from '@/components/brand/SaconGlobalBrand';
 import ArchitectureHubFooter from '@/layouts/footers/ArchitectureHubFooter';
 import ArchitectureHubHeader from '@/layouts/headers/SaconGlobalHeader';

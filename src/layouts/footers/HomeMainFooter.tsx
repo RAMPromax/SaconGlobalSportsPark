@@ -43,7 +43,7 @@ const HomeMainFooter:React.FC<IHomeMainFooter> = ({bgColor, buttonCls, quikLinkC
                             <div className="tp-footer-widget tp-footer-col-3 pb-40 mb-30 tp_fade_anim" data-delay=".7">
                                 <h4 className="tp-footer-widget-title-sm pre mb-20">Contact</h4>
                                 <div className="tp-footer-widget-info">
-                                    <Link href="mailto:agntixs@studio.com">info@saconglobalsportspark.com</Link>
+                                    <Link href="mailto:info@saconglobalsportspark.com">info@saconglobalsportspark.com</Link>
                                     <Link href="tel:+3025550107">+(91) 989 546 2960</Link>
                                 </div>
                                 <div className="tp-footer-widget-info">
