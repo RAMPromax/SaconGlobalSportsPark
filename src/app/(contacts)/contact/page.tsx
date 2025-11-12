@@ -2,7 +2,7 @@ import ContactMain from '@/pages/contacts/contact/ContactMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Contact Main",
+    title: "SAB Creative - Contact Main",
 };
 
 const page = () => {

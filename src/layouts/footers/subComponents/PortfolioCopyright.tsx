@@ -14,7 +14,7 @@ const PortfolioCopyright = () => {
                                 <p>Available for a full-time position</p>
                             </div>
                             <div className="pp-footer-copyright-text">
-                                <p>Made by Agntix.</p>
+                                <p>Made by SAB Creative.</p>
                             </div>
                         </div> 
                     </div>

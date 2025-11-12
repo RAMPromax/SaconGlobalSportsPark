@@ -2,7 +2,7 @@ import BlogGridMain from '@/pages/blogs/blog-grid/BlogGridMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Blog Grid Light",
+    title: "SAB Creative - Blog Grid Light",
 };
 
 const page = () => {

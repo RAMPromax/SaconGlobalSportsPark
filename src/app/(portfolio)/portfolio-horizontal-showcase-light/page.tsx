@@ -3,7 +3,7 @@ import PortfolioHorizontalShowcase from '@/pages/portfolios/portfolio-horizontal
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Horizontal Showcase Light",
+    title: "SAB Creative - Portfolio Horizontal Showcase Light",
 };
 
 const page = () => {

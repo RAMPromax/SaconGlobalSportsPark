@@ -2,7 +2,7 @@ import PersonalPortfolioMain from '@/pages/homes/personal-portfolio/PersonalPort
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Personal Portfolio Light",
+    title: "SAB Creative - Personal Portfolio Light",
 };
 
 const page = () => {

@@ -2,7 +2,7 @@ import AboutStartupMain from '@/pages/about/about-startup/AboutStartupMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Agntix - About Startup light",
+  title: "SAB Creative - About Startup light",
 };
 
 const page = () => {

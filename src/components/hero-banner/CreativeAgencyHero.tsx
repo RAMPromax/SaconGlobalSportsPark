@@ -20,7 +20,7 @@ import img17 from '../../../public/assets/img/17.webp';
 import ImageTrail from '@/utils/ImageTrail';
 import Link from 'next/link';
 
-const CreativeAgencyHero = ({ title = "Agntix", fontStyle="" }) => {
+const CreativeAgencyHero = ({ title = "SAB Creative", fontStyle="" }) => {
     // Create an array of image data
     const images = [
         { id: 1, src: img1 },

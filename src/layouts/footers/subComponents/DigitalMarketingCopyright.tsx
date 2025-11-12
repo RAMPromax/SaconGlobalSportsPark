@@ -10,14 +10,14 @@ const DigitalMarketingCopyright = () => {
                 <div className="row align-items-center">
                     <div className="col-xl-4 col-lg-5 col-md-6">
                         <div className="tp-copyright-2-left text-center text-md-start z-index-1">
-                            <p>© {getCurrentYear()} <Link href="#">Agntix</Link>. All Rights Reserved.</p>
+                            <p>© {getCurrentYear()} <Link href="#">SAB Creative</Link>. All Rights Reserved.</p>
                         </div>
                     </div>
                     <div className="col-xl-3 col-lg-3 d-none d-lg-block">
                         <div className="tp-copyright-2-middle">
-                            <Link href="mailto:agntix@gmail.com">
+                            <Link href="mailto:sabcreative@gmail.com">
                                 <span><EmailIconOne /></span>{" "}
-                                agntix@gmail.com
+                                sabcreative@gmail.com
                             </Link>
                         </div>
                     </div>

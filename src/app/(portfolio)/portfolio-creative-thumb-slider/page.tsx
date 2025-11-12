@@ -2,7 +2,7 @@ import PortfolioCreativeThumbSlider from '@/pages/portfolios/portfolio-creative/
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Creative Thumb Slider",
+    title: "SAB Creative - Portfolio Creative Thumb Slider",
 };
 
 const page = () => {

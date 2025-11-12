@@ -3,7 +3,7 @@ import PortfolioColThreeMain from '@/pages/portfolios/portfolio-col-3/PortfolioC
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Col 3 Light",
+    title: "SAB Creative - Portfolio Col 3 Light",
 };
 
 const page = () => {

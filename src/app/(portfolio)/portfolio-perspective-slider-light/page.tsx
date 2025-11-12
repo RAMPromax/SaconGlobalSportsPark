@@ -2,7 +2,7 @@ import PortfolioPerspectiveSlider from '@/pages/portfolios/portfolio-perspective
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Perspective Slider",
+    title: "SAB Creative - Portfolio Perspective Slider",
 };
 
 const page = () => {

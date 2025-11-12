@@ -35,7 +35,7 @@ const ContactUsHero = () => {
                         <div className="col-lg-4"></div>
                         <div className="col-lg-8">
                             <div className="tp-faq-text tp_fade_anim">
-                                <p className="m-0">Agntix is a beacon of best innovation and the dynamic <br /> parent a company of wealcoder and many other subsidiaries.</p>
+                                <p className="m-0">SAB Creative is a beacon of best innovation and the dynamic <br /> parent a company of wealcoder and many other subsidiaries.</p>
                             </div>
                         </div>
                     </div>

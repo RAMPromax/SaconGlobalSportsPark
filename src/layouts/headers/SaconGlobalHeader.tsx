@@ -1,6 +1,7 @@
 "use client"
 import MobileMenus from '@/layouts/subComponents/MobileMenus';
 import logoBlack from "../../../public/assets/img/logo/SACON-GLOBAL-01.png";
+import logoWhite from "../../../public/assets/img/logo/logo-white.png";
 import MobileOffcanvas from '@/components/offcanvas/MobileOffcanvas';
 import { ArrowThree, MenubarIcon, SearchIcon } from '@/svg';
 import useGlobalContext from '@/hooks/useContext';
@@ -16,7 +17,7 @@ const SaconGlobalHeader = () => {
         <>
             <header>
                 {/* -- header area start -- */}
-                <div className="tp-header-8-area header-transparent tp-header-8-border" style={{backgroundColor: "#FFFFFF"}}>
+                <div className="tp-header-8-area header-transparent tp-header-8-border" >
                     <div className="container container-1750">
                         <div className="row">
                             <div className="col-xl-12">
@@ -34,7 +35,7 @@ const SaconGlobalHeader = () => {
                                     <div className="tp-header-8-middle">
                                         <div className="tp-header-logo">
                                             <Link href="/">
-                                                <Image style={{ width: "100%", height: "auto" }} width={200} src={logoBlack} alt="logo" />
+                                                <Image style={{ width: "100%", height: "auto" }} width={200} src={logoWhite} alt="logo" />
                                             </Link>
                                         </div>
                                     </div>
@@ -45,7 +46,7 @@ const SaconGlobalHeader = () => {
                                             </button>
                                         </div> */}
                                         <div className="tp-header-8-btn">
-                                            <Link className="tp-btn-border-2" href="/contact">
+                                            <Link className="tp-btn-border" href="/contact">
                                                 Contact Us
                                                 {" "}<span><ArrowThree /></span>
                                             </Link>

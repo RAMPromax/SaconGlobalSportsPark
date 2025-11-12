@@ -180,7 +180,7 @@ const ProductDetailsReview = () => {
                                             name="email"
                                             id="email"
                                             type="email"
-                                            placeholder="agntix@mail.com"
+                                            placeholder="sabcreative@mail.com"
                                         />
                                     </div>
                                 </div>

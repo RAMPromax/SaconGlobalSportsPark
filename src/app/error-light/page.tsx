@@ -2,7 +2,7 @@ import ErrorMain from '@/pages/error/ErrorMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Not Found Page",
+    title: "SAB Creative - Not Found Page",
 };
 
 const page = () => {

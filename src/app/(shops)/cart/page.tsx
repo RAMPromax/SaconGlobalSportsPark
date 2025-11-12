@@ -3,7 +3,7 @@ import CartMain from '@/pages/shops/cart/CartMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Cart Main",
+    title: "SAB Creative - Cart Main",
 };
 
 const page = () => {

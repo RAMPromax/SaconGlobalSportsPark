@@ -2,7 +2,7 @@ import PortfolioCreativeSkewSlider from '@/pages/portfolios/portfolio-skew-slide
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Creative skew Slider",
+    title: "SAB Creative - Portfolio Creative skew Slider",
 };
 
 const page = () => {

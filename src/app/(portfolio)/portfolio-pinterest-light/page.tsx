@@ -3,7 +3,7 @@ import PortfolioPinterestMain from '@/pages/portfolios/portfolio-pinterest/Portf
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Pinterest Light",
+    title: "SAB Creative - Portfolio Pinterest Light",
 };
 
 const page = () => {

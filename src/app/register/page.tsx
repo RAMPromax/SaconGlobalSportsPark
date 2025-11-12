@@ -2,7 +2,7 @@ import RegisterMain from '@/pages/register/RegisterMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Register Main",
+    title: "SAB Creative - Register Main",
 };
 
 const page = () => {

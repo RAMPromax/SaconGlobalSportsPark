@@ -2,7 +2,7 @@ import WishlistMain from '@/pages/shops/wishlist/WishlistMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Wishlist Main",
+    title: "SAB Creative - Wishlist Main",
 };
 
 const page = () => {

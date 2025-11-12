@@ -2,7 +2,7 @@ import PortfolioDetailsVideo from '@/pages/portfolios/portfolio-details-video/Po
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Details Video Light",
+    title: "SAB Creative - Portfolio Details Video Light",
 };
 
 const page = () => {

@@ -88,6 +88,14 @@
         @media #{$lg,$md,$xs}{
             padding: 10px 0;
         }
+        @media #{xs}{
+            padding: 0;
+        }
+       img {
+         @media #{$xs}{
+           max-height: 80px;
+        }
+       }
     }
     &-right{
         & .cr-header-login{
@@ -100,8 +108,8 @@
                 padding: 11px 20px 12px;
                 letter-spacing: -0.15px;
                 color: var(--tp-common-white);
-                border: 1px solid rgba(255, 255, 255, 0.06);
-                background: rgba(255, 255, 255, 0.06);
+                border: 1px solid rgba(255, 255, 255, 1);
+                background: rgba(255, 255, 255, 1);
                 backdrop-filter: blur(10px);
                 &:hover{
                     color: var(--tp-common-black-7);
@@ -319,14 +327,14 @@
     &-area{
         &.header-8-style-dark{
             & .tp-header-8-bar {
-                border: 1px solid rgba(255, 255, 255, 0.12);
+                border: 1px solid rgba(255, 255, 255, 1);
                 & span {
                     color: var(--tp-common-white);
                 }
             }
-            & .tp-btn-border-2 {
+            & .tp-btn-border {
                 color: var(--tp-common-white);
-                border: 1px solid rgba(255, 255, 255, 0.12);
+                border: 1px solid #FFF;
             }
         }
     }
@@ -334,7 +342,7 @@
         padding: 18px 0;
     }
     &-border{
-        border-bottom: 1px solid rgba(25, 25, 25, 0.08);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
     }
     &-bar{
         transition: .3s;
@@ -369,7 +377,7 @@
             font-size: 15px;
             line-height: 1;
             letter-spacing: -0.01em;
-            color: var(--tp-common-black); 
+            color: var(--tp-common-white); 
             font-family: var(--tp-ff-clash-medium);
             &:not(:last-child){
                 margin-right: 8px;
