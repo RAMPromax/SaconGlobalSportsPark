@@ -2,7 +2,7 @@ import DesignAgencyMain from '@/pages/homes/design-agency/DesignAgencyMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Design Agency Light",
+    title: "SAB Creative - Design Agency Light",
 };
 
 const page = () => {

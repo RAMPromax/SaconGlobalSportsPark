@@ -2,7 +2,7 @@ import PortfolioMasonryMain from '@/pages/portfolios/portfolio-masonry/Portfolio
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Masonry Light",
+    title: "SAB Creative - Portfolio Masonry Light",
 };
 
 const page = () => {

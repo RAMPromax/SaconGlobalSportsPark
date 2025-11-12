@@ -2,7 +2,7 @@ import ITSolutionMain from '@/pages/homes/it-solution/ITSolutionMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - IT Solution Light",
+    title: "SAB Creative - IT Solution Light",
 };
 
 const page = () => {

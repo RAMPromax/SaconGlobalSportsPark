@@ -2,7 +2,7 @@ import PortfolioImageComparison from '@/pages/portfolios/portfolio-details-image
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Details Image Comparison",
+    title: "SAB Creative - Portfolio Details Image Comparison",
 };
 
 const page = () => {

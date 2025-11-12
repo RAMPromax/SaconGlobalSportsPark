@@ -3,7 +3,7 @@ import BlogDeailsMain from "@/pages/blogs/blog-details/BlogDeailsMain";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Agntix - Blog Details",
+    title: "SAB Creative - Blog Details",
 };
 
 const page = () => {

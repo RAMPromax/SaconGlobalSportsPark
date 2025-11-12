@@ -29,7 +29,7 @@ const CreativeStudioFooter = ({ buttonCls = "" }) => {
             </div>
 
             <div className="creative-footer-text d-none d-lg-block">
-                <p>Agntix I’ve gone too far, send me back up 👆</p>
+                <p>SAB Creative I’ve gone too far, send me back up 👆</p>
             </div>
 
             {/* -- footer area start -- */}

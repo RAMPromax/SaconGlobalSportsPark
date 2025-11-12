@@ -2,7 +2,7 @@ import DigitalMarketingMain from '@/pages/homes/digital-marketing/DigitalMarketi
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Digital Marketing Light",
+    title: "SAB Creative - Digital Marketing Light",
 };
 
 const page = () => {

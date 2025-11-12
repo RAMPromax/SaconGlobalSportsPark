@@ -2,7 +2,7 @@ import PortfolioDetailsModern from '@/pages/portfolios/portfolio-details-modern/
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Details Modern Light",
+    title: "SAB Creative - Portfolio Details Modern Light",
 };
 
 const page = () => {

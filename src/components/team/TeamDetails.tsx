@@ -19,7 +19,7 @@ const TeamDetails = () => {
                             <div className="tp-team-details-info d-flex justify-content-between">
                                 <div className="tp-team-details-info-contact">
                                     <Link href="tel:0123456789"><PhoneIcon /> +(302) 555-0107</Link>
-                                    <Link href="mailto:agntix@studio.com"><EmailIconFive /> info@saconglobalsportspark.com</Link>
+                                    <Link href="mailto:sabcreative@studio.com"><EmailIconFive /> info@saconglobalsportspark.com</Link>
                                 </div>
                                 <div className="tp-team-details-info-social">
                                     <div className="tp-footer-widget-social">

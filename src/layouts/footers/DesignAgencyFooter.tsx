@@ -52,7 +52,7 @@ const DesignAgencyFooter = ({ spacingCls = "" }) => {
                                             <div className="design-footer-widget design-footer-col-3">
                                                 <h4 className="design-footer-widget-title sm">Drop us a line</h4>
                                                 <div className="design-footer-widget-info">
-                                                    <Link className="tp-line-white" href="mailto:inquiry@agntix.com">inquiry@agntix.com</Link>
+                                                    <Link className="tp-line-white" href="mailto:inquiry@sabcreative.com">inquiry@sabcreative.com</Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,7 +60,7 @@ const DesignAgencyFooter = ({ spacingCls = "" }) => {
                                             <div className="design-footer-widget design-footer-col-4">
                                                 <h4 className="design-footer-widget-title sm">Skype</h4>
                                                 <div className="design-footer-widget-info">
-                                                    <Link className="tp-line-white" href="#">agntix.agency</Link>
+                                                    <Link className="tp-line-white" href="#">sabcreative.agency</Link>
                                                 </div>
                                             </div>
                                         </div>

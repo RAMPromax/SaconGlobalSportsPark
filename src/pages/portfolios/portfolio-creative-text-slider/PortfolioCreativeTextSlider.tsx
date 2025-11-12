@@ -28,7 +28,7 @@ const PortfolioCreativeTextSlider = () => {
 
                     {/* Contact Mail */}
                     <div className="tp-portfolio-slider__mail">
-                        <Link href="mailto:agntix@gmail.com">agntix@gmail.com</Link>
+                        <Link href="mailto:sabcreative@gmail.com">sabcreative@gmail.com</Link>
                     </div>
 
                     {/* Social Links */}

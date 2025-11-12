@@ -2,7 +2,7 @@ import BlogGridWithSidebar from '@/pages/blogs/blog-grid-with-sidebar/BlogGridWi
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Blog Grid With Sidebar Light",
+    title: "SAB Creative - Blog Grid With Sidebar Light",
 };
 
 const page = () => {

@@ -2,7 +2,7 @@ import ArchitectureHubMain from '@/pages/homes/architecture-hub/ArchitectureHubM
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Architecture hub light",
+    title: "SAB Creative - Architecture hub light",
 };
 
 const page = () => {

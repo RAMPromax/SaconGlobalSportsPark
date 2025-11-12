@@ -3,7 +3,7 @@ import TeamDetailsMain from '@/pages/team/team-details/TeamDetailsMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Agntix - Team details light",
+  title: "SAB Creative - Team details light",
 };
 
 const page = () => {

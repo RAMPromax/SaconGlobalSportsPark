@@ -2,7 +2,7 @@ import UniqueAIImageMain from '@/pages/homes/unique-ai-image/UniqueAIImageMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Unique AI Image Light",
+    title: "SAB Creative - Unique AI Image Light",
 };
 
 const page = () => {

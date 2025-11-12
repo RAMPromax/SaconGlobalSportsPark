@@ -2,7 +2,7 @@ import ShopWithSliderMain from '../../../pages/shops/shop-with-slider/ShopWithSl
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Shop With Slider light",
+    title: "SAB Creative - Shop With Slider light",
 };
 
 const page = () => {

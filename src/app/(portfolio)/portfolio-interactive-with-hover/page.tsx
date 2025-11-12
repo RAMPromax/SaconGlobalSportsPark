@@ -2,7 +2,7 @@ import PortfolioInteractiveHover from '@/pages/portfolios/Portfolio-Interactive/
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Interactive With Hover",
+    title: "SAB Creative - Portfolio Interactive With Hover",
 };
 
 const page = () => {

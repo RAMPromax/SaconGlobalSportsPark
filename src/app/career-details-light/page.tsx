@@ -2,7 +2,7 @@ import CareerDetailsMain from '@/pages/career-details/CareerDetailsMain';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Career Details Light",
+    title: "SAB Creative - Career Details Light",
 };
 
 const page = () => {

@@ -2,7 +2,7 @@ import PortfolioParallaxSlider from '@/pages/portfolios/portfolio-parallax-slide
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: "Agntix - Portfolio Parallax Slider",
+    title: "SAB Creative - Portfolio Parallax Slider",
 };
 
 const page = () => {
